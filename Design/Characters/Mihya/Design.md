@@ -6,7 +6,10 @@ She wears a dark pink jacket and a blue scarf.
 
 Mihya's face is in the shape of a piechart, allowing her to convey emotions by rotating and changing the proportions and angle of it.
 
+<img src="https://github.com/ShxDowXD/Moon-Rocks-Documentation/blob/156dbd5804ad678f03568f93f09bef396ec54db6/Design/Characters/Mihya/Design/Mihya%20Sleepy.png" alt="Alt Text" width="500" height="500">
+
 > Colours may not be accurate due to me being partially colourblind.
+
 
 # Inspiration
 
