@@ -19,3 +19,13 @@ The design for Mihya was inspired by Temmie Chang's artwork for the album "U.U.F
 # Previous Designs
 
 Mihya originally didn't wear a scarf, nor did she have connected arms - I changed the arms so they would be easier to depict, and I added a scarf to connect her head to the rest of her body.
+
+<img src="https://github.com/ShxDowXD/Moon-Rocks-Documentation/blob/d95f7aefdf55ff57339ef89f7dde8af8d162c820/Design/Characters/Mihya/Design/ShallWeDanceCover.png" alt="Alt Text" width="300" height="300">
+
+> Mihya's old design, featured on the cover art for my song "Shall We Dance?"
+
+# Concept Art
+
+<img src="https://github.com/ShxDowXD/Moon-Rocks-Documentation/blob/d95f7aefdf55ff57339ef89f7dde8af8d162c820/Design/Characters/Mihya/Design/Diagram.png" alt="Alt Text" width="450" height="450">
+
+> A diagram of Mihya's appearance.
