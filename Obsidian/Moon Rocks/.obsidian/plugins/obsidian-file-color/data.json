@@ -1,0 +1,17 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "ltSvsqE5S2VPvyIqqxYMC",
+      "name": "Important",
+      "value": "#1ff47b"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Welcome.md",
+      "color": "ltSvsqE5S2VPvyIqqxYMC"
+    }
+  ]
+}

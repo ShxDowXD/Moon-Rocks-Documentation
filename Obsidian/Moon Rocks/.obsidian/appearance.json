@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Border",
+  "theme": "obsidian",
+  "baseFontSize": 20,
+  "interfaceFontFamily": "Maple Mono",
+  "textFontFamily": "Maple Mono",
+  "monospaceFontFamily": "Maple Mono",
+  "translucency": false,
+  "accentColor": "#a8b0e1"
+}
