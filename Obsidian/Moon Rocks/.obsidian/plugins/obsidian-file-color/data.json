@@ -3,15 +3,32 @@
   "colorBackground": false,
   "palette": [
     {
-      "id": "ltSvsqE5S2VPvyIqqxYMC",
+      "id": "_67f7rPr8n3QjzjHxq7oE",
       "name": "Important",
-      "value": "#1ff47b"
+      "value": "#57ff62"
+    },
+    {
+      "id": "MxJNfuD3M4CurnzEnYAwl",
+      "name": "Art",
+      "value": "#ea7a1f"
     }
   ],
   "fileColors": [
     {
+      "path": "Art",
+      "color": "MxJNfuD3M4CurnzEnYAwl"
+    },
+    {
+      "path": "Art/Raw Files",
+      "color": "MxJNfuD3M4CurnzEnYAwl"
+    },
+    {
+      "path": "Art/Art Gallery.md",
+      "color": "MxJNfuD3M4CurnzEnYAwl"
+    },
+    {
       "path": "Welcome.md",
-      "color": "ltSvsqE5S2VPvyIqqxYMC"
+      "color": "_67f7rPr8n3QjzjHxq7oE"
     }
   ]
 }

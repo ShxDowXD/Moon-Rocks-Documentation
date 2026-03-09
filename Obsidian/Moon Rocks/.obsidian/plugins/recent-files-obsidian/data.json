@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Audio & Music",
+      "path": "Audio & Music/Audio & Music.md"
+    },
+    {
       "basename": "Welcome",
       "path": "Welcome.md"
+    },
+    {
+      "basename": "Art Gallery",
+      "path": "Art/Art Gallery.md"
+    },
+    {
+      "basename": "MihyaLines",
+      "path": "Art/Raw Files/MihyaLines.png"
+    },
+    {
+      "basename": "Story",
+      "path": "Story/Story.md"
+    },
+    {
+      "basename": "Design",
+      "path": "Design/Design.md"
+    },
+    {
+      "basename": "Characters",
+      "path": "Characters/Characters.md"
+    },
+    {
+      "basename": "MihyaShowcase",
+      "path": "Art/Raw Files/MihyaShowcase.png"
+    },
+    {
+      "basename": "Mihya",
+      "path": "Characters/Mihya.md"
+    },
+    {
+      "basename": "mihyagram",
+      "path": "Art/Raw Files/mihyagram.png"
+    },
+    {
+      "basename": "Environment",
+      "path": "Environment/Environment.md"
+    },
+    {
+      "basename": "Mihya Inspiration",
+      "path": "Art/Raw Files/Mihya Inspiration.png"
     }
   ],
   "omittedPaths": [],

@@ -4,31 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "66472bb6ed37fe70",
+        "id": "279e58e1abea42af",
         "type": "tabs",
         "children": [
           {
-            "id": "c7c028413a8c5dc4",
+            "id": "56164bbfefae8958",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
       },
       {
-        "id": "798a7eb1ca903833",
+        "id": "a1a2dd82377893d6",
         "type": "tabs",
         "children": [
           {
-            "id": "20df0eba020f6aae",
+            "id": "082f039bf3e00c47",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,7 +56,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "custom",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -95,7 +91,7 @@
             }
           },
           {
-            "id": "a25daafec66b8254",
+            "id": "4181132edc916c13",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -108,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 278.51103591918945
   },
   "right": {
     "id": "636b2dfc9a76ad0b",
@@ -124,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
@@ -214,15 +209,41 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "8d33a53b7dad172f",
+  "active": "56164bbfefae8958",
   "lastOpenFiles": [
-    "Information.png",
+    "Audio & Music/Audio & Music.md",
     "Welcome.md",
-    "MihyaShowcase.png",
+    "Art/Art Gallery.md",
+    "Art/Raw Files/MihyaLines.png",
+    "Art/s.md",
+    "Art/Art.md",
+    "Story/Story.md",
+    "Design/Design.md",
+    "Characters/Characters.md",
+    "Untitled.canvas",
+    "Characters/Art",
+    "Welcome",
+    "Untitleds.md",
+    "Art/Raw Files/MihyaShowcase.png",
+    "Characters/Mihya.md",
+    "Characters/Untitled.md",
+    "Art/Raw Files/mihyagram.png",
+    "Art/Art Section.md",
+    "Environment/Environment.md",
+    "Art/Raw Files",
+    "Art/Untitled.canvas",
+    "Art/Raw Files/Mihya Inspiration.png",
+    "ShallWeDanceCover 1.png",
+    "Art/Raw Files/ShallWeDanceCover.png",
+    "Overview",
+    "Story",
+    "Audio & Music",
+    "Environment",
+    "Design",
+    "Characters",
+    "Information.png",
     "Overview/Untitled.canvas",
     "Overview/Untitled.md",
-    "Overview/Untitled.base",
-    "Overview",
-    "Untitled.canvas"
+    "Overview/Untitled.base"
   ]
 }

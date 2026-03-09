@@ -1,0 +1,67 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "Welcome.md",
+        "Art",
+        "Audio & Music",
+        "Characters",
+        "Design",
+        "Environment",
+        "Story"
+      ],
+      "sortOrder": "custom"
+    },
+    "Art": {
+      "children": [
+        "Art/Art Gallery.md",
+        "Art/Raw Files"
+      ],
+      "sortOrder": "custom"
+    },
+    "Art/Raw Files": {
+      "children": [
+        "Art/Raw Files/MihyaLines.png",
+        "Art/Raw Files/MihyaShowcase.png",
+        "Art/Raw Files/ShallWeDanceCover.png",
+        "Art/Raw Files/Mihya Inspiration.png",
+        "Art/Raw Files/mihyagram.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Audio & Music": {
+      "children": [
+        "Audio & Music/Audio & Music.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Characters": {
+      "children": [
+        "Characters/Characters.md",
+        "Characters/Mihya.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Design": {
+      "children": [
+        "Design/Design.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Environment": {
+      "children": [
+        "Environment/Environment.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Story": {
+      "children": [
+        "Story/Story.md"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}

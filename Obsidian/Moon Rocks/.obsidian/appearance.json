@@ -6,5 +6,9 @@
   "textFontFamily": "Maple Mono",
   "monospaceFontFamily": "Maple Mono",
   "translucency": false,
-  "accentColor": "#a8b0e1"
+  "accentColor": "#a8b0e1",
+  "showRibbon": true,
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "enabledCssSnippets": []
 }

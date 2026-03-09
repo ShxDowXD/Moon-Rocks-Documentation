@@ -1,12 +1,14 @@
 [
-  "obsidian-image-gallery",
-  "obsidian-file-color",
-  "image-converter",
-  "pretty-properties",
-  "obsidian-linter",
+  "colored-tags",
   "editing-toolbar",
   "recent-files-obsidian",
+  "pretty-properties",
+  "manual-sorting",
+  "obsidian-linter",
+  "obsidian-image-gallery",
+  "image-converter",
   "highlightr-plugin",
-  "colored-tags",
-  "iconic"
+  "obsidian-style-settings",
+  "obsidian-file-color",
+  "folder-notes"
 ]
