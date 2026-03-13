@@ -1,3 +1,7 @@
+---
+tags:
+  - character
+---
 ## About
 
 Mihya is an alien that was found abandoned as a very young child by an Astronaut while they were searching for resource-rich planets.

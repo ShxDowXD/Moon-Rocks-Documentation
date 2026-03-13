@@ -1,1 +1,0 @@
-_Details about every Character and Character concept._

@@ -4,34 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "279e58e1abea42af",
+        "id": "37e780b52b4bb477",
         "type": "tabs",
         "children": [
           {
-            "id": "56164bbfefae8958",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a1a2dd82377893d6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "082f039bf3e00c47",
+            "id": "497c1fd3eb2415bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Welcome.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Welcome"
@@ -99,12 +83,23 @@
               "icon": "clock",
               "title": "Recent Files"
             }
+          },
+          {
+            "id": "ad50e18b64543968",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 278.51103591918945
+    "width": 284.51103591918945
   },
   "right": {
     "id": "636b2dfc9a76ad0b",
@@ -206,35 +201,38 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "iconic:Open rulebook": false
+      "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "56164bbfefae8958",
+  "active": "497c1fd3eb2415bf",
   "lastOpenFiles": [
-    "Audio & Music/Audio & Music.md",
-    "Welcome.md",
     "Art/Art Gallery.md",
+    "Art/Raw Files/ObsidianBG.png",
+    "Art/Raw Files/Moon Landscape.png",
+    "Welcome.md",
+    "Art/Raw Files/Mihya Inspiration.png",
     "Art/Raw Files/MihyaLines.png",
-    "Art/s.md",
-    "Art/Art.md",
     "Story/Story.md",
-    "Design/Design.md",
+    "Art/Art.md",
+    "Environment/Environment.md",
+    "Characters/Mihya.md",
     "Characters/Characters.md",
     "Untitled.canvas",
-    "Characters/Art",
+    "Art/Untitled.base",
+    "Art/Raw Files/mihyagram.png",
+    "Art/Raw Files/MihyaShowcase.png",
+    "Art/Raw Files/ShallWeDanceCover.png",
+    "Audio & Music/Audio & Music.md",
+    "Art/s.md",
+    "Design/Design.md",
+    "Art",
     "Welcome",
     "Untitleds.md",
-    "Art/Raw Files/MihyaShowcase.png",
-    "Characters/Mihya.md",
     "Characters/Untitled.md",
-    "Art/Raw Files/mihyagram.png",
     "Art/Art Section.md",
-    "Environment/Environment.md",
     "Art/Raw Files",
     "Art/Untitled.canvas",
-    "Art/Raw Files/Mihya Inspiration.png",
     "ShallWeDanceCover 1.png",
-    "Art/Raw Files/ShallWeDanceCover.png",
     "Overview",
     "Story",
     "Audio & Music",
@@ -243,7 +241,6 @@
     "Characters",
     "Information.png",
     "Overview/Untitled.canvas",
-    "Overview/Untitled.md",
-    "Overview/Untitled.base"
+    "Overview/Untitled.md"
   ]
 }

@@ -14,6 +14,7 @@
     },
     "Art": {
       "children": [
+        "Art/Art.md",
         "Art/Art Gallery.md",
         "Art/Raw Files"
       ],
@@ -21,6 +22,7 @@
     },
     "Art/Raw Files": {
       "children": [
+        "Art/Raw Files/Moon Landscape.png",
         "Art/Raw Files/MihyaLines.png",
         "Art/Raw Files/MihyaShowcase.png",
         "Art/Raw Files/ShallWeDanceCover.png",

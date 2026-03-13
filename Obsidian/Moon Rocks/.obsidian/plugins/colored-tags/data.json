@@ -10,7 +10,8 @@
     "highTextContrast": false
   },
   "knownTags": {
-    "important": 1
+    "art": 3,
+    "character": 2
   },
   "tagColors": {
     "important": 2
