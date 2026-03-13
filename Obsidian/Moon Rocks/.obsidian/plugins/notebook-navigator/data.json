@@ -91,7 +91,7 @@
   "enterToOpenFiles": false,
   "shiftEnterOpenContext": "tab",
   "cmdCtrlEnterOpenContext": "split",
-  "startView": "files",
+  "startView": "navigation",
   "showInfoButtons": true,
   "homepage": null,
   "mobileHomepage": null,

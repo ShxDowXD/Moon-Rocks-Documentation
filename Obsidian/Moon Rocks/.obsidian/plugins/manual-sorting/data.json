@@ -14,7 +14,6 @@
     },
     "Art": {
       "children": [
-        "Art/Art.md",
         "Art/Art Gallery.md",
         "Art/Raw Files"
       ],
@@ -22,6 +21,7 @@
     },
     "Art/Raw Files": {
       "children": [
+        "Art/Raw Files/ObsidianBG.png",
         "Art/Raw Files/Moon Landscape.png",
         "Art/Raw Files/MihyaLines.png",
         "Art/Raw Files/MihyaShowcase.png",
@@ -32,34 +32,25 @@
       "sortOrder": "custom"
     },
     "Audio & Music": {
-      "children": [
-        "Audio & Music/Audio & Music.md"
-      ],
+      "children": [],
       "sortOrder": "custom"
     },
     "Characters": {
       "children": [
-        "Characters/Characters.md",
         "Characters/Mihya.md"
       ],
       "sortOrder": "custom"
     },
     "Design": {
-      "children": [
-        "Design/Design.md"
-      ],
+      "children": [],
       "sortOrder": "custom"
     },
     "Environment": {
-      "children": [
-        "Environment/Environment.md"
-      ],
+      "children": [],
       "sortOrder": "custom"
     },
     "Story": {
-      "children": [
-        "Story/Story.md"
-      ],
+      "children": [],
       "sortOrder": "custom"
     }
   },

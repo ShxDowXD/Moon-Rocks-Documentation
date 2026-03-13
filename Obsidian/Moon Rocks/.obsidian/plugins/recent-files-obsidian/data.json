@@ -5,6 +5,14 @@
       "path": "Welcome.md"
     },
     {
+      "basename": "Mihya Inspiration",
+      "path": "Art/Raw Files/Mihya Inspiration.png"
+    },
+    {
+      "basename": "mihyagram",
+      "path": "Art/Raw Files/mihyagram.png"
+    },
+    {
       "basename": "Art Gallery",
       "path": "Art/Art Gallery.md"
     },
@@ -13,20 +21,12 @@
       "path": "Art/Raw Files/Moon Landscape.png"
     },
     {
-      "basename": "Mihya Inspiration",
-      "path": "Art/Raw Files/Mihya Inspiration.png"
-    },
-    {
       "basename": "MihyaLines",
       "path": "Art/Raw Files/MihyaLines.png"
     },
     {
       "basename": "Mihya",
       "path": "Characters/Mihya.md"
-    },
-    {
-      "basename": "mihyagram",
-      "path": "Art/Raw Files/mihyagram.png"
     },
     {
       "basename": "MihyaShowcase",
